@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23595" started-at="2018-02-27T15:03:33Z" finished-at="2018-02-27T15:03:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23595" started-at="2018-02-27T15:03:33Z" finished-at="2018-02-27T15:03:56Z">
+      <class name="com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="setUp" is-config="true" duration-ms="5934" started-at="2018-02-27T15:03:33Z" finished-at="2018-02-27T15:03:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="2475" started-at="2018-02-27T15:03:39Z" data-provider="logindata" finished-at="2018-02-27T15:03:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha1@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="1941" started-at="2018-02-27T15:03:42Z" data-provider="logindata" finished-at="2018-02-27T15:03:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha2@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="1932" started-at="2018-02-27T15:03:44Z" data-provider="logindata" finished-at="2018-02-27T15:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha3@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="2008" started-at="2018-02-27T15:03:46Z" data-provider="logindata" finished-at="2018-02-27T15:03:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha4@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="2200" started-at="2018-02-27T15:03:48Z" data-provider="logindata" finished-at="2018-02-27T15:03:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha5@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="2196" started-at="2018-02-27T15:03:50Z" data-provider="logindata" finished-at="2018-02-27T15:03:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha6@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="1940" started-at="2018-02-27T15:03:52Z" data-provider="logindata" finished-at="2018-02-27T15:03:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha7@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="VerifyLoginWithInvalidCradentiols(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="VerifyLoginWithInvalidCradentiols" duration-ms="2044" started-at="2018-02-27T15:03:54Z" data-provider="logindata" finished-at="2018-02-27T15:03:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harsha8@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCradentiols -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols@4667ae56]" name="endTest" is-config="true" duration-ms="161" started-at="2018-02-27T15:03:56Z" finished-at="2018-02-27T15:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.uiAutomations.homepage.TC001_VerifyLoginWithInvalidCradentiols -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
