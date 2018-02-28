@@ -42,6 +42,7 @@ public class TC001_VerifyLoginWithInvalidCradentiols extends TestBase {
 		homepage.loginToApplication(username, password);
 		
 		Assert.assertEquals(homepage.authFailedMessage(), "Authentication failed.");
+		getScreenShot("VerifyLoginWithInvalidCradentiols");
 		log.info("====================Finished TEST=====================");
 	}
 	else
